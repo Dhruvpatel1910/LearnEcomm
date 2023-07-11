@@ -39,7 +39,7 @@ export function checkUser(loginInfo) {
   });
 }
 
-export function updateUser(update) {
+/*export function updateUser(update) {
   return new Promise(async (resolve) => {
     const response = await fetch('http://localhost:8080/users/'+update.id, {
       method: 'PATCH',
@@ -50,4 +50,4 @@ export function updateUser(update) {
     // TODO: on server it will only return some info of user (not password)
     resolve({ data });
   });
-}
+}*/

@@ -2343,24 +2343,6 @@
         {
           "name": "dhruv patel",
           "email": "dhruvap111@gmail.com",
-          "phone": "8320369230",
-          "street": "pancham mall",
-          "city": "ahmedabad",
-          "state": "gujarat",
-          "pinCode": "382350"
-        },
-        {
-          "name": "dhruvi patel",
-          "email": "dhruviap111@gmail.com",
-          "phone": "083203692301",
-          "street": "pancham mall ke age",
-          "city": "ahmedabad-nikol",
-          "state": "gujarat",
-          "pinCode": "382350"
-        },
-        {
-          "name": "priyank patel",
-          "email": "priyank123@gmail.com",
           "phone": "08320369230",
           "street": "pancham mall",
           "city": "ahmedabad",
@@ -2527,6 +2509,12 @@
         }
       ],
       "id": 13
+    },
+    {
+      "email": "preet123@gmail.com",
+      "password": "Preet123",
+      "addresses": [],
+      "id": 14
     }
   ],
   "cart": [
@@ -3357,6 +3345,128 @@
       },
       "status": "pending",
       "id": 8
+    },
+    {
+      "items": [
+        {
+          "title": "Elbow Macaroni - 400 gm",
+          "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
+          "price": 14,
+          "discountPercentage": 15.58,
+          "rating": 4.57,
+          "stock": 146,
+          "brand": "Bake Parlor Big",
+          "category": "groceries",
+          "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/22/1.jpg",
+            "https://i.dummyjson.com/data/products/22/2.jpg",
+            "https://i.dummyjson.com/data/products/22/3.jpg"
+          ],
+          "quantity": 1,
+          "user": 1,
+          "id": 21
+        }
+      ],
+      "totalAmount": 14,
+      "totalItems": 1,
+      "user": {
+        "email": "dhruvap111@gmail.com",
+        "password": "Dhruvpatel2341",
+        "id": 1,
+        "addresses": [
+          {
+            "name": "dhruv patel",
+            "email": "dhruvap111@gmail.com",
+            "phone": "8320369230",
+            "street": "pancham mall",
+            "city": "ahmedabad",
+            "state": "gujarat",
+            "pinCode": "382350"
+          },
+          {
+            "name": "dhruvi patel",
+            "email": "dhruviap111@gmail.com",
+            "phone": "083203692301",
+            "street": "pancham mall ke age",
+            "city": "ahmedabad-nikol",
+            "state": "gujarat",
+            "pinCode": "382350"
+          },
+          {
+            "name": "priyank patel",
+            "email": "priyank123@gmail.com",
+            "phone": "08320369230",
+            "street": "pancham mall",
+            "city": "ahmedabad",
+            "state": "gujarat",
+            "pinCode": "382350"
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "dhruv patel",
+        "email": "dhruvap111@gmail.com",
+        "phone": "8320369230",
+        "street": "pancham mall",
+        "city": "ahmedabad",
+        "state": "gujarat",
+        "pinCode": "382350"
+      },
+      "status": "pending",
+      "id": 9
+    },
+    {
+      "items": [
+        {
+          "title": "Elegant Female Pearl Earrings",
+          "description": "Elegant Female Pearl Earrings Set Zircon Pearl Earings Women Party Accessories 9 Pairs/Set",
+          "price": 30,
+          "discountPercentage": 12.8,
+          "rating": 4.74,
+          "stock": 16,
+          "brand": "Fashion Jewellery",
+          "category": "womens-jewellery",
+          "thumbnail": "https://i.dummyjson.com/data/products/79/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/79/1.jpg"
+          ],
+          "quantity": 1,
+          "user": 14,
+          "id": 21
+        }
+      ],
+      "totalAmount": 30,
+      "totalItems": 1,
+      "user": {
+        "email": "preet123@gmail.com",
+        "password": "Preet123",
+        "addresses": [
+          {
+            "name": "preet patel",
+            "email": "preet123@gmail.com",
+            "phone": "8320369230",
+            "street": "ahmedabad",
+            "city": "ahmedabad",
+            "state": "gujarat",
+            "pinCode": "382350"
+          }
+        ],
+        "id": 14
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "preet patel",
+        "email": "preet123@gmail.com",
+        "phone": "8320369230",
+        "street": "ahmedabad",
+        "city": "ahmedabad",
+        "state": "gujarat",
+        "pinCode": "382350"
+      },
+      "status": "pending",
+      "id": 10
     }
   ]
 }
